@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "657055111475",
+    "project_id": "postreal-2b7dd",
+    "storage_bucket": "postreal-2b7dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657055111475:android:aa49093ef4aa6378240646",
+        "android_client_info": {
+          "package_name": "com.awarself.postreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657055111475-4cav6vuk9qp4oq3psan59u7j4ti7c4v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6T532bVZsUjw1SwDQQH97ZLJedUZwzMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657055111475-4cav6vuk9qp4oq3psan59u7j4ti7c4v3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657055111475-ou5kc2kafv5n3jdq2r108pk4lk5egceg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awarself.postreal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
